@@ -1,0 +1,29 @@
+*{
+  margin: 0px auto;
+  padding: 0px;
+font-family: 'Ubuntu', sans-serif;
+}
+body{
+  background-color: #DADADA;
+}
+
+.site{
+  background-color: #FFFFFF;
+  width: 800px;
+
+ margin: 0px auto;
+ padding: 50px;
+}
+.site .conteudo{
+  /* background-color: #e6e6ff; */
+  min-height: 300px;
+  margin: 15px 0px;
+border-top: solid 5px #800000;
+border-bottom: solid 5px #800000;
+
+}
+.site .topo, .site .rodape {
+
+   text-align: center;
+
+}
