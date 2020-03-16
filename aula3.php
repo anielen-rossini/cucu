@@ -8,10 +8,10 @@
 
   }
   td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
 
   </style>
 </head>
@@ -65,13 +65,13 @@
           <h6>
             Publicado em 01/03/2020 às 09:00:20 Por: Redação NT
             <h6>
-        </table>
-      </div>
-      <div class = "noticias">
-   <h2> Guilherme, Pyong e Gizelly estão no sexto paredão do BBB 20 </h2>
-    <p> Gizelly, Guilherme e Pyong estão no sexto paredão do BBB 20, formado na noite de hoje. Prior venceu a prova bate e volta e escapou da berlinda. Anjo da semana, Guilherme imunizou Flayslane. Em seguida, o modelo foi indicado por Ivy, e escolheu Pyong para ir ao paredão junto com ele. Prior foi o mais votado pela casa, com seis votos, e escolheu Gizelly para encarar a berlinda. </p>
-    <p> Gizelly, Prior e Pyong puderam disputar a prova bate e volta. A dinâmica era de sorte. "Serão quatro rodadas, vocês deverão pegar uma carta e virar, quem pegar a carta mais alta, marca um ponto", explicou o apresentador. </p>
-    <img src= "https://conteudo.imguol.com.br/c/entretenimento/ad/2020/03/02/montagem---paredao-1583118270823_v2_900x506.jpg">
-      </div>
-    </body>
-    </html>
+            </table>
+          </div>
+          <div class = "noticias">
+            <h2> Guilherme, Pyong e Gizelly estão no sexto paredão do BBB 20 </h2>
+            <p> Gizelly, Guilherme e Pyong estão no sexto paredão do BBB 20, formado na noite de hoje. Prior venceu a prova bate e volta e escapou da berlinda. Anjo da semana, Guilherme imunizou Flayslane. Em seguida, o modelo foi indicado por Ivy, e escolheu Pyong para ir ao paredão junto com ele. Prior foi o mais votado pela casa, com seis votos, e escolheu Gizelly para encarar a berlinda. </p>
+            <p> Gizelly, Prior e Pyong puderam disputar a prova bate e volta. A dinâmica era de sorte. "Serão quatro rodadas, vocês deverão pegar uma carta e virar, quem pegar a carta mais alta, marca um ponto", explicou o apresentador. </p>
+            <img src= "https://conteudo.imguol.com.br/c/entretenimento/ad/2020/03/02/montagem---paredao-1583118270823_v2_900x506.jpg">
+          </div>
+        </body>
+        </html>

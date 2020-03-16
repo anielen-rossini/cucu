@@ -1,0 +1,83 @@
+*{
+  margin: 0px auto;
+  padding: 0px;
+  font-family: 'Ubuntu', sans-serif;
+}
+body{
+  background-color: #DADADA;
+}
+
+.site{
+  background-color: #FFFFFF;
+  width: 800px;
+
+  margin: 0px auto;
+  padding: 50px;
+}
+.site .conteudo{
+  /* background-color: #e6e6ff; */
+  text-align: center;
+  min-height: 300px;
+  margin: 15px 0px;
+  border-top: solid 5px #ccccff;
+  border-bottom: solid 5px #ccccff;
+
+}
+.site .topo, .site .rodape {
+
+  text-align: center;
+
+}
+.botao{
+  font-size: 18px;
+  /* remove o "underline" de um link */
+  text-decoration: none;
+  padding: 10px 20px;
+  display: inline-block;
+  border-radius: 5px;
+  color: #000000;
+}
+.botao-azul {
+  background-color: #ccffff;
+  border: solid 1px #66ffff;
+}
+.botao-azul:hover{
+  background-color: #66ffff;
+}
+.botao-rosa{
+  background-color: #ffe6ff;
+  border: solid 1px #ffb3ff;
+}
+.botao-rosa:hover{
+  background-color: #ff66ff;
+}
+.botao-amarelo{
+  background-color: #ffffcc;
+  border: solid 1px  #ffcc00;
+}
+
+.botao-amarelo:hover{
+  background-color: #ffcc00;
+}
+.menu{
+  background-color: #e6e6ff;
+}
+.menu ul{
+  /* Remove as boinhas da lista */
+  list-style-type: none;
+
+
+}
+.menu ul li{
+  display: inline-block;
+
+}
+.menu a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+
+}
+.menu a:hover{
+  background-color: #8080ff;
+}
